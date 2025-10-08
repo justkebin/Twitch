@@ -1,0 +1,40 @@
+body{background-color: #FF3838;}
+h1{color: #BF1919;
+font-family: Comic Sans MS;
+font-size: 40px;
+background-color: palevioletred;
+text-align: center;
+padding-top: 15px;
+margin: 20px;}
+
+p{font-family: Comic Sans MS;
+font-size: 20;
+background-color: #A69494;
+text-align: center;
+margin: 15;}
+
+img{border-style: outset;
+border-width: 15px;
+display: block;
+margin: auto;} 
+
+a{text-decoration: none;
+color: #000000;
+font-family: Comic Sans MS;
+font-size: 15;}
+
+a:hover{color: darkred;
+font-size: 25px;}
+
+ol {list-style: none;
+background-color: white;
+display: block;
+margin-right:20%;
+margin-left:20%;
+text-align: center;}
+
+
+li {display: inline-block;
+text-align: center;
+padding: 20px;}
+
